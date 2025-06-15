@@ -13,7 +13,7 @@ Education
 ======
 * Bachelor of Science                                                                                                  August 2021 - February 2025
   * Biology, Faculty of Biology, Universitas Gadjah Mada
-  * IPK : 3.83/4.00
+  * GPA : 3.83/4.00
     
 Work experience
 ======
@@ -31,8 +31,8 @@ Internship
 Skills
 ======
 * Animal Handling
-  * Mus musculus
-  * Rattus Norvegicus     
+  * *Mus musculus*
+  * *Rattus norvegicus*     
 * Animal Microtechnique
   * Histological preparation (Hematoxylin Eosin, Mallory Acid Fuschin, & Periodic Acid-Schiff)
   * Blood smear preparation
@@ -68,11 +68,7 @@ Teaching
 * August - December 2024: Practicum Assistant of Histology
   * Laboratory of Animal Structure and Development, Faculty of Biology, Universitas Gadjah Mada
   * Trained and taught undergraduate students about basic concept of histological structure, physiology, and development of organs and cells
-  
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+ 
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
