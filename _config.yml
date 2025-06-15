@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Adel's Yard"
 title_separator          : "-"
-name                     : &name "Adelia Adriani"
-description              : &description "personal description"
+name                     : &name "Adel"
+description              : &description "I'm a freshgraduate of Universitas Gadjah Mada, majoring in Biology. Ever since as an undergraduate student until now, I've always interested in Animal Physiology, focusing on Animal Reproduction and Embriology. I have several experiences as an Intern in professional field s, such as Laboratory Assistant at Badan Riset dan Inovasi Nasional and Conservation Staff at Gembira Loka Zoo. Right now, I'm enrolled at Institut Teknologi Bandung for postgraduate studies in Biology."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,16 +23,16 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Adel"
+  name             : "Adelia Adriani"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Yogyakarta, Indonesia"
-  employer         : "Universitas Gadjah Mada"
+  location         : "Bandung, Indonesia"
+  university       : "Institut Teknologi Bandung"
   uri              : # URL
   email            : "adeliaadriani02@gmail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  linkedin         : "https://www.linkedin.com/in/adelia-adriani"
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
