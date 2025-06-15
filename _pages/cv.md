@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Science                                                                                                  August 2021 - February 2025
+* Bachelor of Science (2025)
   * Biology, Faculty of Biology, Universitas Gadjah Mada
   * GPA : 3.83/4.00
     
@@ -43,7 +43,7 @@ Skills
   * Microsoft Office
   * Canva
 
-Publications
+Rsearch Projects
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -51,9 +51,7 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Presenter at National Seminar Biotechnology X 2025 by Biotechnology Program for Postgraduates with reserach title "Efektivitas Esktrak Daun Mimba *Azadirachta indica* A. Juss, 1830 dalam Mengurangi Efek Hemoragi dan Patologis Bisa Ular *Trimeresurus insularis*, Kramer 1977"
   
 Teaching
 ======
@@ -69,6 +67,6 @@ Teaching
   * Laboratory of Animal Structure and Development, Faculty of Biology, Universitas Gadjah Mada
   * Trained and taught undergraduate students about basic concept of histological structure, physiology, and development of organs and cells
  
-Service and leadership
+Community Service and Social Projects
 ======
 * Currently signed in to 43 different slack teams
