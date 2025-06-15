@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Practicum Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Course : General Biology"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Universitas Gadjah Mada, Department of Tropical Biology"
+date: August - December 2023
+location: "Yogyakarta, Indonesia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+1. Trained and taught over 10 undergraduate students about basic concept of Biology in practical class
+2. Involved in pre-tests and final exam preparation with other asisstant
+3. Collaborated with other asisstant in material and curriculum preparation under supervision of the Head of the Laboratory 
