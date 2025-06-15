@@ -15,10 +15,8 @@ Education
   * Biology, Faculty of Biology, Universitas Gadjah Mada
   * GPA : 3.83/4.00
     
-Work experience
+Internship experience
 ======
-Internship
------
 * June - July 2023: Laboratory Assistant at BRIN
   * Applied Zoology Research Center, KST Soekarno, Badan Riset dan Inovasi Nasional
   * Supporting Lead Researcher in conducting experiments related to male reproduction of reptile through histological and cytological approches
