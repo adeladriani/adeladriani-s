@@ -67,7 +67,7 @@ Teaching
  
 Achievements
 ======
-* 2^nd in Biosphere Scientific Paper Writing Competition 2024
+* Second place in Biosphere Scientific Paper Writing Competition 2024
 
 Community Service and Social Projects
 ======
