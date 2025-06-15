@@ -28,30 +28,20 @@ Internship
   * Conservatory Office, Gembira Loka Zoo
   * Supporting the staffs job desk under supervision of the assistant manager
 
-Part-time 
------
-* August - December 2023 : Practicum Assistant of General Biology
-  * Laboratory of General Biology, Faculty of Biology, Universitas Gadjah Mada
-  * Trained and taught undergraduate students about basic concept of Biology
-
-* February - May 2024: Practicum Assistant of Animal Phyisiology
-  * Laboratory of Animal Physiology, Faculty of Biology, Universitas Gadjah Mada
-  * Trained and taught undergraduate students about basic concept and technicsl skill in animal physiology
- 
-* August - December 2024: Practicum Assistant of Histology
-  * Laboratory of Animal Structure and Development, Faculty of Biology, Universitas Gadjah Mada
-  * Trained and taught undergraduate students about basic concept of histological structure, physiology, and development of organs and cells
- 
-
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Animal Handling
+  * Mus musculus
+  * Rattus Norvegicus     
+* Animal Microtechnique
+  * Histological preparation (Hematoxylin Eosin, Mallory Acid Fuschin, & Periodic Acid-Schiff)
+  * Blood smear preparation
+  * Pap smear preparation
+  * Spread preparation
+* Computer
+  * Google Workspace
+  * Microsoft Office
+  * Canva
 
 Publications
 ======
@@ -67,6 +57,18 @@ Talks
   
 Teaching
 ======
+* August - December 2023 : Practicum Assistant of General Biology
+  * Laboratory of General Biology, Faculty of Biology, Universitas Gadjah Mada
+  * Trained and taught undergraduate students about basic concept of Biology
+
+* February - May 2024: Practicum Assistant of Animal Phyisiology
+  * Laboratory of Animal Physiology, Faculty of Biology, Universitas Gadjah Mada
+  * Trained and taught undergraduate students about basic concept and technicsl skill in animal physiology
+ 
+* August - December 2024: Practicum Assistant of Histology
+  * Laboratory of Animal Structure and Development, Faculty of Biology, Universitas Gadjah Mada
+  * Trained and taught undergraduate students about basic concept of histological structure, physiology, and development of organs and cells
+  
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
