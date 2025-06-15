@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Adel's Yard"
+title                    : "Adel's Trinkets and Beads"
 title_separator          : "-"
 name                     : &name "Adel"
-description              : &description "I'm a freshgraduate of Universitas Gadjah Mada, majoring in Biology. Ever since as an undergraduate student until now, I've always interested in Animal Physiology, focusing on Animal Reproduction and Embriology. I have several experiences as an Intern in professional field s, such as Laboratory Assistant at Badan Riset dan Inovasi Nasional and Conservation Staff at Gembira Loka Zoo. Right now, I'm enrolled at Institut Teknologi Bandung for postgraduate studies in Biology."
+description              : &description
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Adelia Adriani"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Student, Laboratory Assistant, and Scientist"
   location         : "Bandung, Indonesia"
   university       : "Institut Teknologi Bandung"
   uri              : # URL
