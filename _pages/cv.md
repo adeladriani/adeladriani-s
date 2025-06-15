@@ -49,7 +49,7 @@ Rsearch Projects
   
 Talks
 ======
-* Presenter at National Seminar Biotechnology X 2025 by Biotechnology Program for Postgraduates with reserach title "Efektivitas Ekstrak Daun Mimba *Azadirachta indica* A. Juss, 1830 dalam Mengurangi Efek Hemoragi dan Patologis Bisa Ular *Trimeresurus insularis*, Kramer 1977"
+* Presenter at National Seminar Biotechnology X 2025 by Biotechnology Program for Postgraduates with research title "Efektivitas Ekstrak Daun Mimba *Azadirachta indica* A. Juss, 1830 dalam Mengurangi Efek Hemoragi dan Patologis Bisa Ular *Trimeresurus insularis*, Kramer 1977"
   
 Teaching
 ======
