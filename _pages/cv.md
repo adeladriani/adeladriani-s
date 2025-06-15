@@ -65,6 +65,11 @@ Teaching
   * Laboratory of Animal Structure and Development, Faculty of Biology, Universitas Gadjah Mada
   * Trained and taught undergraduate students about basic concept of histological structure, physiology, and development of organs and cells
  
+Achievements
+======
+* 2^nd in Biosphere Scientific Paper Writing Competition 2024
+
 Community Service and Social Projects
 ======
-* Currently signed in to 43 different slack teams
+* Paranovo Project "Good Leader Good Teacher" at SD Budi Mulia Dua Pandeansari with topic "Kelas Inspirasi : Tanamkan Cita-Cita Sejak Dini" (2023)
+* KKN-PPM UGM II at Desa Aliyan, Rogojampi, Banyuwangi, East Java, Indonesia with topic "Early Leavers from Education and Training"
