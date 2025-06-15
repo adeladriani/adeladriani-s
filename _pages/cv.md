@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in Biology, Universitas Gadjah Mada, 2025
-
+* Bachelor of Science                                                                                                  August 2021 - February 2025
+  * Biology, Faculty of Biology, Universitas Gadjah Mada
+  * IPK : 3.83/4.00
+    
 Work experience
 ======
 Internship
